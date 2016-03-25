@@ -1,0 +1,181 @@
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a88 wonder.txt.enc 
+Pass: aaBE1asn29JAKMUH5panXJ5yPcUBe7fvzG1iGX9iDsGayH4Tec
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a89 wonder.txt.enc 
+Pass: XeAPOC9nyoz5q6OJyTCCPte9BYtKC0xapILq13CkkLi4E2SVLa
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a8a wonder.txt.enc 
+Pass: SmAainQmtYezPpILq4jaIYIKyULTgsEIgKczldFnMkEXUnnYzY
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a8b wonder.txt.enc 
+Pass: Ou9h5TempDNtudCNjeLuB8rVkQkdElVxbMv6a9IquDfvhcBbcV
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a8c wonder.txt.enc 
+Pass: L38rS5vlls3oUM7PdHtI4iVdbNDiieibROGELfLsVbBPyNadJU
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a8d wonder.txt.enc 
+Pass: HB83mhClhcij061RarUdxL6oNJbrGb0JIQaM6FOv44doE8ucxS
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a8e wonder.txt.enc 
+Pass: EK7D9MTkcHReZquSSV31pvf09G40kTHyASqUqlRzcX9HTtJeaQ
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a8f wonder.txt.enc 
+Pass: AS6OXzhkcx7d5aoUL5bPhaJBvCX9IMZc1VAcbLV1DvbhgeegHO
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a90 wonder.txt.enc 
+Pass: 6b5aqaykYcmYaNiXEfCjaAsMi9uImFlKrYUgPrZ4lO7AxT3juN
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a91 wonder.txt.enc 
+Pass: 3f5gEGFjTLVS97cZ8Jk8XkXYZ6NRK830ialoBRc7NmddDERlcL
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a92 wonder.txt.enc 
+Pass: zn4rbrXjP2BMfqab1tMVPO7fK2mbo1Kedc5xvyb9uF53T0moFJ
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a93 wonder.txt.enc 
+Pass: vx32uXkiLhqHEaTdtXtqIygq7zEgMtcMTaP4gYeCXeaVgkBqsH
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a94 wonder.txt.enc 
+Pass: r53DI91iHQaCjNNbm7VEBcK2tudpqmo1KcfCU4hF572vxaasaG
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a95 wonder.txt.enc 
+Pass: nD2NckIiD6F7J8Hdgh4d4CtDgr6zOf6fBe0KFakHdaYODLuvDE
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a96 wonder.txt.enc 
+Pass: kL1ZzQah9lu2orBfdKbxxmYOXnY8tbNN2gKS1AnKEy0nS6JyqC
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a97 wonder.txt.enc 
+Pass: gT1gM2nh5UaxNb6hVuDLpQ8aIkxHRTb2siaalgqNmQVHfre0YA
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a98 wonder.txt.enc 
+Pass: dc0qge4g1AJrtO0jOZlfi0hh5gPQvMrgkkueaGtPOpygvc33C9
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a99 wonder.txt.enc 
+Pass: dhz23JLgxp0mS8tlH9M4baLsrdnaTF9ObmEmKmxSvIT9CRR5p7
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a9a wonder.txt.enc 
+Pass: ZpzCQvdgsZfgyrnnBiuRYEu4edGfy8Q3VoZu5M0VYhvdSCm8X5
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a9b wonder.txt.enc 
+Pass: VyyNkbpfoEObYchp4MXmQoZFTafoV1dhMrp2qs3Y6AR2fyBAA3
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a9c wonder.txt.enc 
+Pass: R6xY8D7fkt4a3Pbrxx4AJS9QGX8y0tuPDt9AbS6bdcsUviaCn2
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a9d wonder.txt.enc 
+Pass: OExfUoOefajUc9ZtpacZC3ic3Sa7YmC44vTIPz9aF1OuBYuFU0
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a9e wonder.txt.enc 
+Pass: KMvqoTcebJSP8sSvjAEs5cMjpPzG2fTiuyjQAZCcnTqNRIJH8y
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18a9f wonder.txt.enc 
+Pass: HVu1C6sdbz8KdcMycklHxGvtcLRPacgQl04Yu5FfOsMne4eKlv
+^^^^^^
+Correct!
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa0 wonder.txt.enc 
+Pass: DatCahAdXenFCPG0ZONbpqa5RIpZ4Uy5c2OcgbIixLoGuo3MSu
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa1 wonder.txt.enc 
+Pass: 9itMsNRdSNXAiAA2Ryv0iUAGEEIecNFjX4ekUCLkZjKfBaRO6s
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa2 wonder.txt.enc 
+Pass: 6qsYGzfcO3C4Ht54KcXNb5jR1Bhn6GXRO6zsFiOn7Cm9RPmRjq
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa3 wonder.txt.enc 
+Pass: 2zreabvcKirzmdz6EC5iYfNdn79xa9j6F8I00IRqebIceABTQo
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa4 wonder.txt.enc 
+Pass: z7rpyGDbGRbtMQs87ld6QIxkd4c6821k6Ad8loUsG4j1uvZV4n
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa5 wonder.txt.enc 
+Pass: uGq1KsUbC7GorAmA0PEUJsbvP11FduISxCsGaOYvoXFUAgtZhl
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa6 wonder.txt.enc 
+Pass: qOpBeYhb8mvjQtgCs0moCXB7CxSOBna7nEDOKubzPvhtQVIbOj
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa7 wonder.txt.enc 
+Pass: nXpM29za4VbexeaEmaOD57kIztrYfgmleGYV5Ua1yNDMdGda2h
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa8 wonder.txt.enc 
+Pass: jboXOlGa0CKdVRYGfDvbyhOTlpKdDc4TZJnap1d4amfmt22cfg
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aa9 wonder.txt.enc 
+Pass: gjneiQYdvr0Y1BRIcnYvqLybbmilhUL8PL8ibbg77FBFAmQeMe
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aaa wonder.txt.enc 
+Pass: crno63kdrbfRbuLKUR6JjucmNiBuFNdmGNRqP7j9fedfQclh0c
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aab wonder.txt.enc 
+Pass: c1m0Te2dnGOM6eFMO2decZCyAfa4jGpU8PiyAdmCH798dMAjda
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aac wonder.txt.enc 
+Pass: Z9lBmKJciv4HbR9OHbF2Z9l9xb2DH979zR36uDpFoZbbs8ZmKd
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aad wonder.txt.enc 
+Pass: UHlLAvacebjCAC4QAFnQRjPKjcUMl2OnpTMEfjsHQy619ttozb
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aae wonder.txt.enc 
+Pass: RPkXYcnbaKT7gvyS3pOkKNzVZYtVJucVgVdMUJvKzQcTPeIqcZ
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aaf wonder.txt.enc 
+Pass: NYjdrD5ba092FfrUvSx9CxddLUMbnnsBbYxTFp0Nbp4scTdtJX
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab0 wonder.txt.enc 
+Pass: JcjoEpMbVfoxkSlXp3ZX5bDo8RkkLgApRaHc0P3P8IaMsE2vxV
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab1 wonder.txt.enc 
+Pass: GlizcUdaROYrKCfZid6ryBm0uNDtpdRYIccgkv6Sgg2l90QyaT
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab2 wonder.txt.enc 
+Pass: CthAv6qaN5DlpvdbbHeFqlQBgKc3NVfC9aroZV9VI9YEPkl1HR
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab3 wonder.txt.enc 
+Pass: 92gLIi8ZJksgOgXdYqGajP0MXG4CrOvq0cCvK2CYpc0ecaA3uP
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab4 wonder.txt.enc 
+Pass: 5AgVcNPZFTcbuTQbRUnyc0aYJDXLPHDZqeV45cFbR1V7rKZ6cO
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab5 wonder.txt.enc 
+Pass: 1Ifd00cYB9HaTDKdK5PMZdEf69vUuAUDihmCp8Ia0Tyb86t8FM
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab6 wonder.txt.enc 
+Pass: yRenNbtY7oxUzxEfDeygRDnqs6NaS3irdj6KaeLcbsS0OqIAsK
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab7 wonder.txt.enc 
+Pass: taezgHBY3YcPZg8h6IZ5KnR2e2mjxvzaTlQROEOf9KuSbcdDaI
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab8 wonder.txt.enc 
+Pass: qed94sRXzDLK4T3jzs7SDR1DUzFsUoGEKnhaAkRihjQsrQ2FDH
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ab9 wonder.txt.enc 
+Pass: mmcKRZfXus1FdDxlsXfn62bOHud2zhYsBp1euKUkICsL8CQIqF
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18aba wonder.txt.enc 
+Pass: iucVlAxVqcg99yqnl6HBzcFa4r6BXdlb2rLmfqYnqbOkOylKYD
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18abb wonder.txt.enc 
+Pass: f3bc8lEVlHP4ehkpegoarFohpoZK1V2FstbtTQbqS4qEaiAMBB
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18abc wonder.txt.enc 
+Pass: bCanVRUVhx5zDUerbKQtkpSsckxTZOJtjvv2Fxas1VMdqYZPoA
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18abd wonder.txt.enc 
+Pass: cKayp3iUddktjEctUtzIdT24ShPd3HbcayGA0Xdvcuo67IsRV8
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18abe wonder.txt.enc 
+Pass: YSd9Cf0UdMToIyVvNYaca4cFFdoibAoGU0aIk3gzANJaN4HT96
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18abf wonder.txt.enc 
+Pass: UbcKaKHTZ29jnhPyG881ReGQ2aGr535uM2qPZdj1imlzaocXm4
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ac0 wonder.txt.enc 
+Pass: QfcUtxYTUhoeNVJ09igOKIpcnaf1dvMdD4AYJ9m4JFHSqa1ZT3
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ac1 wonder.txt.enc 
+Pass: MnbcHclTQQYdsFD22LHjDrTjaX8A7oaH47Uc5fp7rejr7OPc71
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ac2 wonder.txt.enc 
+Pass: JxamaE3SM6DXRz74vvp76V3uQSbJbhrvu9lkpFs9T6FKNAkakz
+
+C:\Projects\lasactf\ransom\Release>dec_ransom.exe 56e18ac3 wonder.txt.enc 
+Pass: F5ZyypJSIltRyi26oaRVz6d6DPzR9a8alB5ralvC1Zhkdu9cSx

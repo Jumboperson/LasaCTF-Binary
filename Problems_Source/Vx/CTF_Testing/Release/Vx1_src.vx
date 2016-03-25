@@ -1,0 +1,159 @@
+; first param 4 chars as int
+; second param is int key
+; return is the 4 character string as int
+proc decrypt
+	; pop the ret addr
+	pop r6
+	; characters as int
+	pop r4
+	; int key
+	pop r0
+	xor r0, r4
+	push r6
+	ret
+
+; first param is the 4 character string
+; returns nothing
+proc printStr
+	pop r6
+	pop r4
+	mov r1, 0
+dv tempIntValue 0
+	mov [tempIntValue], r4
+	mov r4, tempIntValue
+lbl lpStart
+	mov r3, [r4]
+	push r3
+	natv msvcrt.dll, putchar, cdecl, 1
+	push 1500
+	natv kernel32.dll, Sleep, stdcall, 1
+	add r4, 1
+	add r1, 1
+	cmp r1, 4
+	jnz lpStart
+	push r6
+	ret
+
+;; key: lasactf{xxxxxxxxxxxxxxxxxxxxxxxxxxx}
+;; key: lasa ctf{ vir7 ualc pu_w 1th_ 0bfu sc4t ion}
+;; J7oW 7XtS 5B42 TYkc fh6y 4dz3 4sO1 yuQ7 Ik41 
+
+dv lasaXor 1346832933 
+dv lasaKey 825518921 
+
+dv ctfXor 1278673178 
+dv ctfKey 928085369 
+
+dv bal3Xor 104667714 
+dv bal3Key 827290420 
+
+dv fulXor 1343620417 
+dv fulKey 863659060 
+
+dv aintXor 241769750 
+dv aintKey 2033608806 
+
+dv worXor 1006841189 
+dv worKey 1667979604 
+
+dv spaceXor 1196564485 
+dv spaceKey 842285621 
+
+dv thingXor 658520900 
+dv thingKey 1400133687 
+
+dv finXor 704731171 
+dv finKey 1466906442 
+
+proc main
+	pop r3
+	mov [lasaKey], r3
+	mov r1, [lasaXor]
+	push r1
+	mov r3, [lasaKey] 
+	push r3
+	call decrypt
+	push r0
+	call printStr
+
+	pop r3
+	mov [ctfKey], r3
+	mov r1, [ctfXor]
+	push r1
+	mov r2, [ctfKey]
+	push r2
+	call decrypt
+	push r0
+	call printStr
+
+	pop r3
+	mov [bal3Key], r3
+	mov r1, [bal3Xor]
+	push r1
+	mov r2, [bal3Key]
+	push r2
+	call decrypt
+	push r0
+	call printStr
+
+	pop r3
+	mov [fulKey], r3
+	mov r1, [fulXor]
+	push r1
+	mov r2, [fulKey]
+	push r2
+	call decrypt
+	push r0
+	call printStr
+
+	pop r3
+	mov [aintKey], r3
+	mov r1, [aintXor]
+	push r1
+	mov r2, [aintKey]
+	push r2
+	call decrypt
+	push r0
+	call printStr
+
+	pop r3
+	mov [worKey], r3
+	mov r1, [worXor]
+	push r1
+	mov r2, [worKey]
+	push r2
+	call decrypt
+	push r0
+	call printStr
+
+	pop r3
+	mov [spaceKey], r3
+	mov r1, [spaceXor]
+	pop r3
+	mov [thingKey], r3
+	push r1
+	mov r2, [spaceKey]
+	push r2
+	call decrypt
+	push r0
+	call printStr
+	
+	mov r1, [thingXor]
+	push r1
+	mov r2, [thingKey]
+	push r2
+	call decrypt
+	pop r3
+	mov [finKey], r3
+	push r0
+	call printStr
+
+	mov r1, [finXor]
+	push r1
+	mov r2, [finKey]
+	push r2
+	call decrypt
+	push r0
+	call printStr
+	ret
+
